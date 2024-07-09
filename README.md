@@ -14,5 +14,5 @@ Implementar un respositorio de guias basico para estudiantes en el grado 3 en la
 ## Cronograma 
 | Actividades  | Semana 1 | Semana 2 | Semana 3 | Semana 4 |
 |--------------|--------------|--------------| --------------| 
-| Identificar problema      |    X     |  |    |    |
+| Identificar problema      |    X     |            |           |             |
 | Texto 4      | Texto 5      | Texto 6      |
