@@ -8,7 +8,7 @@ En pandemia, los profesores optaron por utilizar diferentes plataformas virtuale
 ### Objetivo General 
 Implementar un respositorio de guias basico para estudiantes en el grado 3 en la institucion educativa.
 #### Objetivos especificos 
--'Seleccionar el tipo de guías y diferentes recursos para que los estudiantes puedan seguir su aprendizaje.'
--'Implementar el repositorio de guías para que los docentes puedan acceder y dejar las diferentes guías.'
--'Capacitar a estudiantes y docentes de cómo utilizar las diferentes opciones que ofrece el repositorio.' 
+- 'Seleccionar el tipo de guías y diferentes recursos para que los estudiantes puedan seguir su aprendizaje.'
+- 'Implementar el repositorio de guías para que los docentes puedan acceder y dejar las diferentes guías.'
+- 'Capacitar a estudiantes y docentes de cómo utilizar las diferentes opciones que ofrece el repositorio.' 
 - `logos/`
