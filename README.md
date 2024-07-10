@@ -20,4 +20,5 @@ Configuración del repositorio para poder subir, descargar y abrir guías para d
 Realizar diferentes capacitaciones a los docentes de cómo funciona el repositorio y evaluar el repositorio.
 ### Semana 4
 Recibir las evaluaciones y mejorar el repositorio arreglando errores 
-
+## Presupuesto
+Se tiene solicitado un presupuesto de $5'000.000  de pesos colombianos, ya que se va a tener un equipo 3 donde cada uno acatara diferentes actividades. 
